@@ -31,7 +31,7 @@ Tools and Libraries:
 - OpenCV
 - Google Colab
 
-**Dataset Information**
+**Dataset Information:**
 - https://drive.google.com/drive/folders/1J_Pkyqj7MR0t9Fjd2DswGPfb2r40QAfZ?usp=sharing
 
 **Project Link:**
