@@ -18,3 +18,27 @@ Achievements:
 
 Achieved impressive accuracy in classifying spam and non-spam messages.
 Enhanced skills in data preprocessing, machine learning, and model evaluation
+
+
+**Task 2: Cat and Dog Image Classifier :**
+
+**Develop an image classification model to
+distinguish between images of cats and dogs
+using data science techniques in Python.**
+
+:: Cat and Dog Image Classifier
+
+This project is an image classification model created using Python and various data science techniques to differentiate between images of cats and dogs. Developed on Google Colab, the model employs machine learning algorithms and computer vision methodologies to analyze and extract distinct features from images, enabling accurate classification between the two animal classes.
+
+Tools Used:
+Python: Leveraging its rich ecosystem of libraries including TensorFlow, Keras, and OpenCV for model development and image processing.
+
+Google Colab: The project was implemented and executed on Google Colab, harnessing its cloud-based Jupyter Notebook environment to run Python code, access GPU/TPU acceleration, and handle large-scale data processing seamlessly.
+
+Achievements:
+Successfully built and trained an image classifier capable of distinguishing between cats and dogs with high accuracy.
+Utilized TensorFlow and Keras frameworks for building and fine-tuning the model architecture.
+Implemented data preprocessing techniques and augmentations for enhancing model robustness.
+Explored and applied various strategies such as L1/L2 Regularization, Dropout, and Batch Normalization to mitigate overfitting and improve model generalization.
+
+
