@@ -34,7 +34,7 @@ Tools and Libraries:
 **Dataset Information**
 - https://drive.google.com/drive/folders/1J_Pkyqj7MR0t9Fjd2DswGPfb2r40QAfZ?usp=sharing
 
-**Project Link: **
+**Project Link:**
 
 The complete code and implementation details can be found in the - https://drive.google.com/drive/folders/1Iwt_cnA03tM3JX_WeInt1YqlkwiTzIRf?usp=sharing
 
