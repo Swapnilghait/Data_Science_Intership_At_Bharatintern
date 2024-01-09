@@ -49,7 +49,7 @@ likelihood of survival for passengers on
 the Titanic using data science techniques
 in Python.**
 
-:: **Titanic Survival Prediction Project**
+:: Titanic Survival Prediction Project
 This project predicts Titanic passenger survival using data science and machine learning. Analyzing historical data, it explores factors influencing survival rates, building models for prediction.
 
 Overview:
