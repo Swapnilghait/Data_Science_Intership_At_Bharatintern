@@ -42,7 +42,7 @@ Implemented data preprocessing techniques and augmentations for enhancing model 
 Explored and applied various strategies such as L1/L2 Regularization, Dropout, and Batch Normalization to mitigate overfitting and improve model generalization.
 
 
-**Task : Titanic Classification :**
+**Task 3: Titanic Classification :**
 
 **Build a predictive model to determine the
 likelihood of survival for passengers on
@@ -55,18 +55,13 @@ This project predicts Titanic passenger survival using data science and machine 
 Overview:
 
 Objective: Predict survival likelihood for Titanic passengers.
-
 Data: Utilized Titanic dataset from Kaggle with passenger details.
-
 Approach: Data preprocessing, exploratory analysis, model building (logistic regression, decision trees), and evaluation.
-
 Tools: Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
 
 
 Repository Contents:
 
 Code: Jupyter Notebooks/Python scripts for data prep, modeling, and evaluation.
-
 Data: Titanic dataset used for analysis.
-
 Documentation: Project overview, analysis insights, and replication instructions.
